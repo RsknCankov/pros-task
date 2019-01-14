@@ -1,0 +1,3 @@
+/*
+This will be responsible for seeding test data in database with User schema
+ */
